@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://soda-machines.com/" />
+<title>pwTest</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">pwTest</td></tr>
+</thead><tbody>
+<tr>
+	<td>store</td>
+	<td>0</td>
+	<td>looptimes</td>
+</tr>
+<tr>
+	<td>while</td>
+	<td>storedVars.looptimes &lt;= 11</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeEval</td>
+	<td>password[storedVars.looptimes]</td>
+	<td>pwd</td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=mod_login_username</td>
+	<td>jon18</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=mod_login_password</td>
+	<td>${pwd}</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=Submit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>10000</td>
+	<td>10000</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Home</td>
+	<td></td>
+</tr>
+<tr>
+	<td>store</td>
+	<td>javascript{storedVars.looptimes++;}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>endWhile</td>
+	<td></td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

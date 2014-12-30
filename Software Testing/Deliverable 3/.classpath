@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/cucumber-core-1.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/cucumber-java-1.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/cucumber-junit-1.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/gherkin-jvm-deps-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jack/Desktop/JARS/junit-4.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
