@@ -1,0 +1,45 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  John Napolitano
+
+Lecture section:  Tu/Th 1-2:15
+
+Recitation day and time:  Friday 10-10:50
+
+Assignment #:  1
+
+Program due date:  9/21/14 @ 11:59PM
+
+Handed in date:  9/21/14 some time slightly before 11:59PM
+
+Source code file name(s): 
+-MyBoggle.java
+-Trie.java (dlb implementation)
+-SimpleDictionary.java
+-DictionaryInterface.java
+
+Other file name(s) (if relevant):
+
+
+
+Does your program run without error?:
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+Additional comments to the grader:
+
+the implementation of the wildcard causes program to run slow. :( 
+
+
+
+
+
+

@@ -1,0 +1,100 @@
+                                                    |Ratios
+----------------------------------------------------|------------------------------------------------
+all.tar:                                            |Original size: 2,960 KB
+    LZW.java                -  1800  KB             |  1.644
+    MyLZW.java do nothing   -  1,751 KB             |  1.690
+    MyLZW.java reset        -  1,151 KB             |  2.571
+    MyLZW.java monitor      -  1,775 KB             |  1.667
+    winzip                  -  973   KB             |  3.042
+----------------------------------------------------|------------------------------------------------     
+assig2.doc                                          |Original size: 85 KB
+    LZW.java                -    75  KB             | 1.133
+    MyLZW.java do nothing   -     40 KB             | 2.125
+    MyLZW.java reset        -     40 KB             | 2.125
+    MyLZW.java monitor      -     40 KB             | 2.125
+    winzip                  -     23  KB            | 3.696
+----------------------------------------------------|------------------------------------------------
+bmps.tar:                                           |Original size: 1,080 KB
+    LZW.java                -    925  KB            | 1.167
+    MyLZW.java do nothing   -     80 KB             |  13.5
+    MyLZW.java reset        -     80 KB             |  13.5
+    MyLZW.java monitor      -     80 KB             |  13.5
+    winzip                  -     63  KB            | 17.14
+----------------------------------------------------|------------------------------------------------
+code.txt:                                           |Original size: 71 KB
+    LZW.java                -     31 KB             |  2.290
+    MyLZW.java do nothing   -     24 KB             |  2.958
+    MyLZW.java reset        -     24 KB             |  2.958
+    MyLZW.java monitor      -     24 KB             |  2.958
+    winzip                  -     15 KB             |  4.733
+----------------------------------------------------|------------------------------------------------
+code2.txt:                                          |Original size: 57 KB
+    LZW.java                -    24  KB             |  2.375
+    MyLZW.java do nothing   -     21 KB             |  2.7142
+    MyLZW.java reset        -     21 KB             |  2.7142
+    MyLZW.java monitor      -     21 KB             |  2.7142
+    winzip                  -     13 KB             |  4.384
+----------------------------------------------------|------------------------------------------------
+edit.exe:                                           |Original size: 231 KB
+    LZW.java                -    251 KB             |  0.12
+    MyLZW.java do nothing   -    153 KB             |  1.509
+    MyLZW.java reset        -    149 KB             |  1.555
+    MyLZW.java monitor      -    153 KB             |  1.509
+    winzip                  -    127 KB             |  1.8189
+----------------------------------------------------|------------------------------------------------
+frosty.jpg:                                         |Original size: 124 KB
+    LZW.java                -    177 KB             |  0.701
+    MyLZW.java do nothing   -    160 KB             |  0.775
+    MyLZW.java reset        -    168 KB             |  0.738
+    MyLZW.java monitor      -    160 KB             |  0.775
+    winzip                  -    127  KB            | 0.976
+----------------------------------------------------|------------------------------------------------
+gone_fishin.bmp:                                    |Original size: 17 KB
+    LZW.java                -      9 KB             |  1.899
+    MyLZW.java do nothing   -      9 KB             |  1.889
+    MyLZW.java reset        -      9 KB             |  1.889
+    MyLZW.java monitor      -      9 KB             |  1.889
+    winzip                  -      9 KB             |  1.899
+----------------------------------------------------|------------------------------------------------
+large.txt:                                          |Original size: 1,193 KB
+    LZW.java                -    605 KB             | 1.971
+    MyLZW.java do nothing   -    491 KB             | 2.429
+    MyLZW.java reset        -    516 KB             | 2.312
+    MyLZW.java monitor      -    491 KB             | 2.429
+    winzip                  -    495 KB             | 2.410
+----------------------------------------------------|------------------------------------------------
+Lego-big.gif:                                       |Original size: 92 KB
+    LZW.java                -    129 KB             |  0.713
+    MyLZW.java do nothing   -    120 KB             |  0.7666
+    MyLZW.java reset        -    120 KB             |  0.7666
+    MyLZW.java monitor      -    120 KB             |  0.7666
+    winzip                  -     92 KB             |  1
+----------------------------------------------------|------------------------------------------------
+medium.txt:                                         |Original size: 25 KB
+    LZW.java                -     13 KB             |  1.923
+    MyLZW.java do nothing   -     13 KB             |  1.923
+    MyLZW.java reset        -     13 KB             |  1.923
+    MyLZW.java monitor      -     13 KB             |  1.923
+    winzip                  -     11 KB             |  2.7272
+----------------------------------------------------|------------------------------------------------
+texts.tar:                                          |Original size: 1,350 KB
+    LZW.java                -     1   KB            |  1.350
+    MyLZW.java do nothing   -     584 KB            |  2.311
+    MyLZW.java reset        -     577 KB            |  2.339
+    MyLZW.java monitor      -     584 KB            |  2.311
+    winzip                  -     534 KB            |  2.528
+----------------------------------------------------|------------------------------------------------
+wacky.bmp:                                          |Original size: 901 KB
+    LZW.java                -       4 KB            |   225.25
+    MyLZW.java do nothing   -       4 KB            |   225.25
+    MyLZW.java reset        -       4 KB            |   225.25
+    MyLZW.java monitor      -       4 KB            |   225.25
+    winzip                  -       3 KB            |   300.33
+----------------------------------------------------|------------------------------------------------
+winnt256.bmps:                                      |Original size: 154 KB
+    LZW.java                -      158KB            |   0.974
+    MyLZW.java do nothing   -      62 KB            |   2.483
+    MyLZW.java reset        -      62 KB            |   2.483
+    MyLZW.java monitor      -      62 KB            |   2.483
+    winzip                  -      49 KB            |   3.1428
+----------------------------------------------------|------------------------------------------------
